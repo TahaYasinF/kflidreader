@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "148759803781",
+    "project_id": "kflidreader",
+    "storage_bucket": "kflidreader.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148759803781:android:ce9df36617507191d5b6ec",
+        "android_client_info": {
+          "package_name": "com.tahayasinf.kflidreader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148759803781-5or40g9lscpdckpkkgrmas4isj7mdb76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDio14o_S2KK17vtPwk7ouXdSS6q6lCvsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148759803781-5or40g9lscpdckpkkgrmas4isj7mdb76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
